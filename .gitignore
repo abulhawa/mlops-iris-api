@@ -1,0 +1,2 @@
+deployments/nginx/.htpasswd
+deployments/nginx/certs/nginx.key
